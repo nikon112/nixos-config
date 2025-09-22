@@ -4,6 +4,7 @@
     ## Multimedia
     # audacity
     gimp
+    media-downloader
     # obs-studio
     pavucontrol
     soundwireserver
@@ -23,7 +24,6 @@
     gnome-disk-utility
     mission-center # GUI resources monitor
     zenity
-    media-downloader
 
     ## Proton apps
     protonvpn-gui
