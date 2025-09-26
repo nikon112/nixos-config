@@ -24,7 +24,7 @@
       selection-clear-on-copy = true;
       mouse-hide-while-typing = true;
 
-      custom-shader = "shaders/cursor_smear.glsl";
+      custom-shader = "shaders/cursor.glsl";
 
       ##### Window #####;
       window-padding-balance = true;
@@ -88,5 +88,5 @@
   };
 
   xdg.configFile."ghostty/styles/tabs.css".source = ./styles/tabs.css;
-  xdg.configFile."ghostty/shaders/cursor_smear.glsl".source = ./shaders/cursor_smear.glsl;
+  xdg.configFile."ghostty/shaders/cursor.glsl".source = ./shaders/cursor.glsl;
 }
